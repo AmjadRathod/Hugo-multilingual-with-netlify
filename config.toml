@@ -1,4 +1,4 @@
-baseURL = "http://hugo-navigator.tk/"
+baseURL = "https://hugo-navigator.tk/"
 languageCode = "en-us"
 title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
