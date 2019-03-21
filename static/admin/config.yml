@@ -76,5 +76,3 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-
-[build.environment]  HUGO_VERSION = "0.53"
